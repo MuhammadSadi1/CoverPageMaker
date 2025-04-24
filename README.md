@@ -4,7 +4,7 @@
 
 
 ✨ About the App
-Cover Page Maker is a lightweight and user-friendly Flutter app designed for Bangladeshi university students. It helps create clean, institution-branded cover pages for:
+Cover Page Maker is a lightweight and user-friendly mobile app built with Flutter, tailored for Bangladeshi students from any university. It helps you create professional, institution-branded cover pages for:
 
 📚 Assignments
 
@@ -14,16 +14,16 @@ Cover Page Maker is a lightweight and user-friendly Flutter app designed for Ban
 
 📄 Other academic documents
 
-🔧 Features
-🏫 Add your university or institute logo
+🔧 Key Features
+🏫 Add university/institute logos
 
-✍️ Fill in your name, ID, course, semester, etc.
+✍️ Fill in name, ID, course, semester, etc.
 
-🎨 Professionally styled templates
+🎨 Clean, professional templates
 
-💾 (Coming soon) PDF export
+💾 Future support for PDF export
 
-📱 Optimized for mobile
+📱 Mobile-first design
 
 🚀 Getting Started
 Prerequisites
@@ -31,21 +31,18 @@ Flutter SDK installed
 
 Android Studio or VS Code with Flutter plugin
 
-Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/MuhammadSadi1/CoverPageMaker.git
 cd cover-page-maker
+
 📚 Resources
-If you're new to Flutter, here are some great starting points:
+A few resources to get you started with Flutter:
 
 Lab: Write your first Flutter app
 
 Cookbook: Useful Flutter samples
 
-Flutter documentation – tutorials, samples, and API references
+Flutter documentation
 
 🪪 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
