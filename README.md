@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # practice1
 
 A new Flutter project.
@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 # 📄 Cover Page Maker – For Bangladeshi Students 🇧🇩
 
 [![Made with Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -55,4 +55,4 @@ samples, guidance on mobile development, and a full API reference.
 ```bash
 git clone https://github.com/MuhammadSadi1/CoverPageMaker.git
 cd cover-page-maker
->>>>>>> 1b6592d52b0b88c5b1081c60429203e68e78e7a9
+ 1b6592d52b0b88c5b1081c60429203e68e78e7a9
